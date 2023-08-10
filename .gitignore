@@ -1,0 +1,7 @@
+*wallet.json
+node_modules
+coverage
+target
+config.ts
+.DS_Store
+test-ledger
